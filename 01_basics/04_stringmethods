@@ -9,3 +9,6 @@ let name4=name.split("-")
 console.log(name4)
 console.log(name.charAt(2))
 console.log(name.indexOf('m'))
+let url="http//madhvesh/rathod%20"
+console.log(url.replace('%20','$$'))
+console.log(url.includes("madhvesh"))
