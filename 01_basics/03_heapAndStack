@@ -1,0 +1,16 @@
+let name= "madhvesh"
+let name1=name
+console.log(name)
+console.log(name1)
+name1="mohit"
+
+console.log(name)
+console.log(name1)
+let ram={
+    name:"All mighty",
+    city:"Ayodhya"
+}
+let ram1=ram;
+ram1.name="prabhu"
+console.log(ram)
+console.log(ram1)
