@@ -1,0 +1,14 @@
+let ss="55aas"
+console.log(typeof ss);
+let num=Number(ss)
+console.log(typeof num)
+console.log(num)
+
+let numb="uhjh"
+let stnum=String(numb)
+console.log(typeof stnum)
+console.log(stnum);
+ let bll=Boolean(numb)
+ console.log(typeof bll)
+ console.log(bll)
+ 
